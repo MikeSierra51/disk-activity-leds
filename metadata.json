@@ -1,0 +1,25 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Mike.Sierra.Nevada"
+            }
+        ],
+        "Category": "System Information",
+        "Description": "Virtual read and write activity lights for disks, partitions and USB volumes",
+        "Description[es]": "Indicadores virtuales de lectura y escritura para discos, particiones y volúmenes USB",
+        "Description[fr]": "Témoins virtuels de lecture et d'écriture pour disques, partitions et volumes USB",
+        "EnabledByDefault": true,
+        "Icon": "drive-harddisk",
+        "Id": "org.mike.diskactivityleds",
+        "License": "GPL-3.0-or-later",
+        "Name": "Disk activity LEDs",
+        "Name[es]": "LEDs de actividad de discos",
+        "Name[fr]": "Voyants d'activité des disques",
+        "Version": "1.3.0",
+        "Website": "https://github.com/MikeSierra51/disk-activity-leds",
+        "BugReportUrl": "https://github.com/MikeSierra51/disk-activity-leds/issues"
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API": "declarativeappletscript"
+}
