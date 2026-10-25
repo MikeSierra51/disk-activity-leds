@@ -1,0 +1,123 @@
+# Translation template for Disk Activity LEDs.
+# Copyright (C) 2026 Mike.Sierra.Nevada
+# This file is distributed under the same license as the Disk Activity LEDs package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Disk Activity LEDs 1.3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-21 22:12+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: NAME\n"
+"Language-Team: LANGUAGE\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: contents/ui/main.qml
+msgid "Disk activity LEDs"
+msgstr ""
+
+#: contents/ui/main.qml
+msgid "Reading"
+msgstr ""
+
+#: contents/ui/main.qml
+msgid "Writing"
+msgstr ""
+
+#: contents/ui/main.qml
+msgid "Reading and writing"
+msgstr ""
+
+#: contents/ui/main.qml
+msgid "Idle"
+msgstr ""
+
+#: contents/ui/main.qml
+msgid "%1 GB/s"
+msgstr ""
+
+#: contents/ui/main.qml
+msgid "%1 MB/s"
+msgstr ""
+
+#: contents/ui/main.qml
+msgid "%1 kB/s"
+msgstr ""
+
+#: contents/ui/main.qml
+msgid "%1 B/s"
+msgstr ""
+
+#: contents/ui/main.qml
+msgid "Not mounted"
+msgstr ""
+
+#: contents/ui/main.qml
+msgid "Partition: %1 • %2"
+msgstr ""
+
+#: contents/ui/main.qml
+msgid "Mount point: %1"
+msgstr ""
+
+#: contents/ui/main.qml
+msgid "State: %1"
+msgstr ""
+
+#: contents/ui/main.qml
+msgid "Read: %1 • Write: %2"
+msgstr ""
+
+#: contents/ui/main.qml
+msgid "Serial number: %1"
+msgstr ""
+
+#: contents/ui/main.qml
+msgid "No physical disk detected"
+msgstr ""
+
+#: contents/ui/main.qml
+msgid "%1 monitored partition"
+msgid_plural "%1 monitored partitions"
+msgstr[0] ""
+msgstr[1] ""
+
+#: contents/ui/main.qml
+msgid "Invalid monitoring response"
+msgstr ""
+
+#: contents/ui/main.qml
+msgid "Disk monitoring encountered an error"
+msgstr ""
+
+#: contents/ui/main.qml
+msgid "Unable to read disk status"
+msgstr ""
+
+#: contents/ui/configGeneral.qml
+msgid "Unable to read the partition list."
+msgstr ""
+
+#: contents/ui/configGeneral.qml
+msgid "Partition detection failed."
+msgstr ""
+
+#: contents/ui/configGeneral.qml
+msgid "Invalid partition detection response."
+msgstr ""
+
+#: contents/ui/configGeneral.qml
+msgid "Select the partitions to display. The optional custom label is limited to five characters."
+msgstr ""
+
+#: contents/ui/configGeneral.qml
+msgid "USB volume choices are remembered by UUID and reapplied the next time they are connected."
+msgstr ""
+
+#: contents/config/config.qml
+msgid "Displayed partitions"
+msgstr ""
