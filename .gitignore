@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+releases/candidates/*.plasmoid
+releases/candidates/*.sha256
+
